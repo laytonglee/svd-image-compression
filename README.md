@@ -22,7 +22,9 @@ This project demonstrates **image compression using Singular Value Decomposition
 Install dependencies using:
 
 `pip install numpy matplotlib`<br>
+
 `git clone https://github.com/yourusername/svd-image-compression.git`<br>
+
 `cd svd-image-compression`
 
 markdown
