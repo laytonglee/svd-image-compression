@@ -48,12 +48,6 @@ Edit
 - Singular values plot (semilog)
 - Cumulative sum plot of singular values
 
-## 📊 Example
-
-![SVD Compression Example](example_output.png)
-
-*(Add your output screenshot here)*
-
 ## 🤔 How it works
 
 - **Singular Value Decomposition (SVD)** breaks the image matrix into three matrices: `U`, `S`, and `VT`.
