@@ -25,11 +25,7 @@ Install dependencies using:
 
 ```git clone https://github.com/yourusername/svd-image-compression.git```
 
-``` cd svd-image-compression```
-
-markdown
-Copy
-Edit
+```cd svd-image-compression```
 
 2. **Add your image file:**
 
